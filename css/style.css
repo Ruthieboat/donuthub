@@ -98,7 +98,8 @@ body {
 
 .secondtxt {
     padding: 1rem 38rem;
-    align-items: first baseline font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+    align-items: baseline;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 #work {
@@ -124,9 +125,15 @@ body {
     padding: 2rem 2rem;
     gap: 10pt;
 
-
 }
 
 .contact {
     background-color: rgb(163, 220, 238);
+}
+
+.last {
+    color: rgb(43, 7, 31);
+    font-size: 80px;
+    padding-top: 1rem;
+    font-family: cursive;
 }
